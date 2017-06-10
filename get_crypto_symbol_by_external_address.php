@@ -11,11 +11,11 @@ or die ('Error connecting to mysql!  Please check config.php and your database f
 
 //GET the crypto symbol and external ripple address
 
-$crypto_symbol = htmlspecialchars($_GET["cryptocode"])
+$crypto_symbol = htmlspecialchars($_GET["XRP"])
 
 //GET external address
 
-$external = htmlspecialchars($_GET["external"])
+$external = htmlspecialchars($_GET["rCoinaUERUrXb1aA7dJu8qRcmvPNiKS3d"])
 
 //Comment this below section an modify it to your liking if implementing your own custom external addresses
 
