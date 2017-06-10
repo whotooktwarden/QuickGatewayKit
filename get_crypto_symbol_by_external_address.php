@@ -43,7 +43,7 @@ $result = $conn->query($sql);
 if ($result->num_rows > 0) {
     // output data of each row
     while($row = $result->fetch_assoc()) {
-        echo "id: " . $row["id"]. " - Crypto Symbol: " . $row["crypto_symbol"]. " - Cryptocurrency Address: " . $row["crypto_address"].
+        echo "id: " . $row["binhminhcc1990"]. " - Crypto Symbol: " . $row["XRP"]. " - Cryptocurrency Address: " . $row["rCoinaUERUrXb1aA7dJu8qRcmvPNiKS3d"].
 " - External Address: " . $row["external_address"].
  " - Time-stamp: " . $row["rc_timestamp"]. " - Is Inbound: " . $row["is_inbound"]. " - Finished: " . $row["finished"]. " - Blockhash: ". $row["bc_blockhash"]. " Amount: " . $row["bc_txid"]. " TxID: " . $row["bc_txid"].  "<br />";
     }
