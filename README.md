@@ -9,8 +9,7 @@ QuickGatewayKit
         Many thanks and praise to the twbs/bootstrap team!!
         
         This web-kit is offered AS IS and WITHOUT WARRANTY.
-        This web-kit is released under Creative Commons.  See http://www.quickgatewaykit.org
-        and refer to the demo site's footer for more details about this license.
+        This web-kit is released under Creative Commons.  
         
         QuickGatewayKit was first authored on May 11, 2015 by Taylor Warden.
         
@@ -21,14 +20,7 @@ QuickGatewayKit
         this web-kit releases.  QGK is being created for developers of services for the Ripple
         protocol in mind, however, a secondary focus is this web-kit should be easily modified
         to allow for a Cryptocurrency Exchange to be created, with QGK being used as a resource
-        for getting started.  
-        
-        The development team of the QuickGatewayKit has joined forces with
-        RoastBeefSandwhichCo who is working in collaboration with the QGK to provide a back-end
-        service which will immediately replace gatewayd.  The repository will be able to optionally
-        support GWD once it has been fixed (read: overhauled) in the future.  The Roast Coins interface will
-        allow developers to automate inbound and outbound cryptocurrency settlement using the Ripple
-        Consensus Ledger or their own propriertary implementation. 
+        for getting started.
         
         Please do your own due diligence when developing a Ripple business, such as 
         a Gateway.  You must do your own research and contact relevent Government
@@ -36,7 +28,7 @@ QuickGatewayKit
         your Terms of Service before you conduct any business.
         
         It is VERY much suggested that before you continue any further to consult all of
-        the Ripple Whitepapers found @ https://forum.ripple.com/viewtopic.php?t=4301
+        the Ripple Whitepapers found @ https://whitepaper.io/document/1/ripple-whitepaper
         
         I, TAYLOR WARDEN, HEREBY CLAIM NO RESPONSIBILITY THEREIN FOR ANY INDIVIDUAL, 
         INDIVIDUALS, ENTITY, OR ENTITIES THAT MAY RECEIVE LEGAL ACTION, DIRECTLY OR INDIRECTLY,
@@ -68,7 +60,7 @@ QuickGatewayKit
         ABSOLUTELY MUST have registered a LEGAL BUSINESS within your legal 
         jurisidiction BEFORE YOU CONDUCT BUSINESS as a Ripple Gateway.  
         If you have problems with writing your terms, hire a lawyer or 
-        consult twarden on the Official Ripple forums for the possibility of
+        consult TaylorWarden on XRPchat for the possibility of
 	consulting or further resources.
         
         deposit.php:  the script that processes the asset offered by default on index.php.
@@ -149,12 +141,6 @@ QuickGatewayKit
         ydeposit.php links to yd.php
         ywithdraw.php links to yw.php
         
-	Follow the instructions found in the Roast Coins repository
-	https://github.com/RoastBeefSandwichCo/Roast-Coins
-	and be sure to edit config.php with your RC database
-	details for access to statistics of your Roast Coins installation provided in
-	rcindex.php.
-        
         6.  You now have a Mock Gateway!  
         
         Now is the time to advertise your site and start market making over Ripple.  Now is the 
@@ -171,9 +157,9 @@ QuickGatewayKit
        
        8.  Join the Ripple Community!
        
-       Join us at the official Ripple forums!  https://forum.ripple.com/
+       Join us at XRPchat.com!
 
 	9. Consultation, Technical Writing, and more available upon request
 	
 	If you or your business require consultation, technical writing, or require a block or ledgerchain solution,
-	please write to taylor at xagate dot com.
+	please write to whotooktwarden at gmail dot com
