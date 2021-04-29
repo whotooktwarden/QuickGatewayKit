@@ -1,5 +1,7 @@
 # QuickGatewayKit
 
+# THIS REPOSITORY IS NOT AN OFFICIAL RIPPLE REPO AND I AM NOT AFFILIATED WITH RIPPLE INC.
+
 QuickGatewayKit
 
   1.  Preamble
@@ -163,3 +165,5 @@ QuickGatewayKit
 	
 	If you or your business require consultation, technical writing, or require a block or ledgerchain solution,
 	please write to whotooktwarden at gmail dot com
+	
+	# THIS REPOSITORY IS NOT AN OFFICIAL RIPPLE REPO AND I AM NOT AFFILIATED WITH RIPPLE INC.
